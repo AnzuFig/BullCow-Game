@@ -1,2 +1,4 @@
 # BullCow-Game
-A C++ console game
+
+A game where you have to guess words.
+Made based on the Udemy course (Unreal Engine 4 C++ Beginers Course)
